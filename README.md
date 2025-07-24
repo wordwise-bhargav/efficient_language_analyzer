@@ -15,13 +15,37 @@ This project is a highly scalable, parallelized system that crawls websites and 
 
 ## 📦 Dependencies
 
-Install all Python dependencies using:
+It's highly recommended to create a virtual environment before installing dependencies:
+
+For standard `venv`:
+
+```bash
+python -m venv .venv
+```
+
+```bash  
+source .venv/bin/activate     # On Linux/macOS  
+```
+
+```bash
+.venv\\Scripts\\activate      # On Windows
+```
+
+Then install the dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Make sure indic-nlp-library and langdetect are included in requirements.txt, along with Ray and BeautifulSoup.
+### Optional: Use `uv` for faster installs
+
+If you have [`uv`](https://github.com/astral-sh/uv) installed:
+
+```bash
+uv pip install -r requirements.txt
+```
+
+Make sure `indic-nlp-library` and `langdetect` are included in `requirements.txt`, along with `Ray` and `BeautifulSoup`.
 
 ---
 
