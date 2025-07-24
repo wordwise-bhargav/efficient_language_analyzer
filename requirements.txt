@@ -1,0 +1,7 @@
+ray==2.24.0
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+langdetect==1.0.9
+indic-nlp-library==0.81
+lxml>=4.9.1
+regex>=2021.8.3
