@@ -1,0 +1,40 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Editors
+.vscode/ # VS Code specific settings
+.idea/   # PyCharm specific settings
+*.swp    # Vim swap files
+
+# OS generated files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Project-specific output files (REVIEW THESE CAREFULLY for your project)
+# As discussed, if your .json files are results you want to keep, DO NOT uncomment this.
+# You might want to ignore specific temporary JSON files like:
+# temp_output.json
+# cache_data.json
+*.log # Log files
+.env # Environment variable files (if you use dotenv)
+
+# My specific project outputs (if you want to ignore them)
+# For example, if you explicitly want to ignore ALL your output JSONs (unlikely)
+*.json
