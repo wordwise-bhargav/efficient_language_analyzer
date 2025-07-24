@@ -28,7 +28,7 @@ source .venv/bin/activate     # On Linux/macOS
 ```
 
 ```bash
-.venv\\Scripts\\activate      # On Windows
+.venv\Scripts\activate      # On Windows
 ```
 
 Then install the dependencies:
