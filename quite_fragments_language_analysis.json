@@ -1,0 +1,17 @@
+{
+    "https://quitefragments.vercel.app/about": {
+        "url": "https://quitefragments.vercel.app/about",
+        "content": {
+            "languages_used": [
+                "en"
+            ],
+            "word_count_per_language": {
+                "en": 259
+            },
+            "percentage_per_language": {
+                "en": 100.0
+            },
+            "total_counted_words": 259
+        }
+    }
+}

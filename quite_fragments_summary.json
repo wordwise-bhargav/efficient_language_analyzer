@@ -1,0 +1,12 @@
+{
+    "total_pages_processed": 3,
+    "site_total_word_counts": {
+        "en": 806,
+        "other_lang": 5
+    },
+    "site_percentage_per_language": {
+        "en": 99.38,
+        "other_lang": 0.62
+    },
+    "site_total_words": 811
+}

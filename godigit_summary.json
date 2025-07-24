@@ -1,0 +1,26 @@
+{
+    "total_pages_processed": 5366,
+    "site_total_word_counts": {
+        "en": 17083373,
+        "other_lang": 2308,
+        "hi": 1527161,
+        "mr": 288346,
+        "bn": 348633,
+        "te": 329857,
+        "gu": 314692,
+        "kn": 296643,
+        "ta": 330158
+    },
+    "site_percentage_per_language": {
+        "en": 83.25,
+        "other_lang": 0.01,
+        "hi": 7.44,
+        "mr": 1.41,
+        "bn": 1.7,
+        "te": 1.61,
+        "gu": 1.53,
+        "kn": 1.45,
+        "ta": 1.61
+    },
+    "site_total_words": 20521171
+}
